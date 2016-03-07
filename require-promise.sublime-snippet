@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+const Promise = require('bluebird');
+]]></content>
+    <tabTrigger>pp</tabTrigger>
+    <scope>source.es6</scope>
+    <description>ES6 require Bluebird</description>
+</snippet>

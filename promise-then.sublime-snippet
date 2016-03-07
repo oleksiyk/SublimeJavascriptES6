@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+.then(($1) => {${0:$TM_SELECTED_TEXT}})
+]]></content>
+    <tabTrigger>.then</tabTrigger>
+    <scope>source.es6</scope>
+    <description>ES .then</description>
+</snippet>
+

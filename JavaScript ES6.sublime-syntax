@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: JavaScript ES6
+scope: source.es6
+contexts:
+  main:
+    - match: ""
+      push: Packages/JavaScript/JavaScript.sublime-syntax
+

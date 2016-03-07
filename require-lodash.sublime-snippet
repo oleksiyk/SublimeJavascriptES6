@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+const _ = require('lodash');
+]]></content>
+    <tabTrigger>__</tabTrigger>
+    <scope>source.es6</scope>
+    <description>ES6 require lodash</description>
+</snippet>

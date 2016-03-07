@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+.catch(${1:err} => {${0:$TM_SELECTED_TEXT}})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>.catch</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.es6</scope>
+    <description>ES6 .catch</description>
+</snippet>
